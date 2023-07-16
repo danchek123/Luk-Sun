@@ -15,6 +15,11 @@ getgenv().ItemsToFarm = {
         Max = 10,
         Sell = false,
     },
+
+    ["Lucky Stone Mask"] = {
+        Max = 10,
+        Sell = false,
+    },
 };
 
 repeat task.wait() until game:IsLoaded() and game.Players.LocalPlayer and game.Players.LocalPlayer.Character
