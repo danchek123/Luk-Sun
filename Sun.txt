@@ -1,7 +1,7 @@
-getgenv().ServerHop = 16
+getgenv().ServerHop = 15
 getgenv().TaskWaitUntilHop = 5
 getgenv().Message = ""
-getgenv().webhook = "https://discord.com/api/webhooks/1129098736308588665/QWvZ09X9ppxKdSF3zGoJqygck_rTxXplZV51TxpHIqBcZOZld9DGdfdoVyU3NkC9peiI"
+getgenv().webhook = "https://discordapp.com/api/webhooks/1128472865721819156/S8ISR_DCWZHWdUga-yr7z8n_-d0UpTuYrrPnPwAVTlE6-DYCoZWgZWFY5J1wfkb2vZL3"
 getgenv().ItemsToFarm = {
     --[[THE FORMAT IS // ФОРМАТ I
 
@@ -20,6 +20,8 @@ getgenv().ItemsToFarm = {
         Max = 10,
         Sell = false,
     },
+
+
 };
 
 repeat task.wait() until game:IsLoaded() and game.Players.LocalPlayer and game.Players.LocalPlayer.Character
