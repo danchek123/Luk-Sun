@@ -1,7 +1,7 @@
 getgenv().ServerHop = 15
 getgenv().TaskWaitUntilHop = 5
 getgenv().Message = ""
-getgenv().webhook = "https://discordapp.com/api/webhooks/1128472865721819156/S8ISR_DCWZHWdUga-yr7z8n_-d0UpTuYrrPnPwAVTlE6-DYCoZWgZWFY5J1wfkb2vZL3"
+getgenv().webhook = "https://discordapp.com/api/webhooks/1130895539479777290/GDQGs_9kX4xwoKI-b8mGqbszUFv5QAn_Hhhl1gMn3WrMvHTnZ9k16NCzqh68gaDx6mBt"
 getgenv().ItemsToFarm = {
     --[[THE FORMAT IS // ФОРМАТ I
 
