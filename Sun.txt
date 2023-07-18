@@ -1,4 +1,4 @@
-getgenv().ServerHop = 15
+getgenv().ServerHop = 14
 getgenv().TaskWaitUntilHop = 5
 getgenv().Message = ""
 getgenv().webhook = "https://discordapp.com/api/webhooks/1130895539479777290/GDQGs_9kX4xwoKI-b8mGqbszUFv5QAn_Hhhl1gMn3WrMvHTnZ9k16NCzqh68gaDx6mBt"
